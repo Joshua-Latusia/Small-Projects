@@ -1,0 +1,4 @@
+﻿  mainCardReading.cpp
+c:\users\rmsjoshua\google drive\ti jaar 2\c# practise\board_champions_vision\board_champions_vision\maincardreading.cpp(265): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  Board_Champions_Vision.vcxproj -> C:\Users\RMSjoshua\Google Drive\TI jaar 2\C# practise\Board_Champions_Vision\x64\Debug\Board_Champions_Vision.exe
+  Board_Champions_Vision.vcxproj -> C:\Users\RMSjoshua\Google Drive\TI jaar 2\C# practise\Board_Champions_Vision\x64\Debug\Board_Champions_Vision.pdb (Full PDB)
