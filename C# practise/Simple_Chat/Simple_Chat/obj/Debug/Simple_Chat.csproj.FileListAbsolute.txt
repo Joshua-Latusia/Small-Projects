@@ -7,3 +7,6 @@ C:\Users\RMSjoshua\Google Drive\TI jaar 2\C# practise\Simple_Chat\Simple_Chat\ob
 C:\Users\RMSjoshua\Google Drive\TI jaar 2\C# practise\Simple_Chat\Simple_Chat\obj\Debug\Simple_Chat.csproj.GenerateResource.Cache
 C:\Users\RMSjoshua\Google Drive\TI jaar 2\C# practise\Simple_Chat\Simple_Chat\obj\Debug\Simple_Chat.exe
 C:\Users\RMSjoshua\Google Drive\TI jaar 2\C# practise\Simple_Chat\Simple_Chat\obj\Debug\Simple_Chat.pdb
+C:\Users\RMSjoshua\Google Drive\TI jaar 2\Small Projects\C# practise\Simple_Chat\Simple_Chat\bin\Debug\Simple_Chat.exe.config
+C:\Users\RMSjoshua\Google Drive\TI jaar 2\Small Projects\C# practise\Simple_Chat\Simple_Chat\obj\Debug\Simple_Chat.exe
+C:\Users\RMSjoshua\Google Drive\TI jaar 2\Small Projects\C# practise\Simple_Chat\Simple_Chat\obj\Debug\Simple_Chat.pdb
